@@ -18237,5 +18237,67 @@
       "Sp. Defense": 95,
       "Speed": 130
     }
+  },
+  {
+    "id": 891,
+    "name": {
+      "english": "Kubfu",
+      "japanese": "N/A",
+      "chinese": "N/A",
+      "french": "N/A"
+    },
+    "type": [
+      "Fighting"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 60,
+      "Sp. Attack": 53,
+      "Sp. Defense": 50,
+      "Speed": 72
+    }
+  },
+  {
+    "id": 892,
+    "name": {
+      "english": "Urshifu",
+      "japanese": "N/A",
+      "chinese": "N/A",
+      "french": "N/A"
+    },
+    "type": [
+      "Fighting",
+      "Dark"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 130,
+      "Defense": 100,
+      "Sp. Attack": 63,
+      "Sp. Defense": 60,
+      "Speed": 97
+    }
+  },
+  {
+    "id": 893,
+    "name": {
+      "english": "Zarude",
+      "japanese": "N/A",
+      "chinese": "N/A",
+      "french": "N/A"
+    },
+    "type": [
+      "Dark",
+      "Grass"
+    ],
+    "base": {
+      "HP": 105,
+      "Attack": 120,
+      "Defense": 105,
+      "Sp. Attack": 70,
+      "Sp. Defense": 95,
+      "Speed": 105
+    }
   }
 ]
